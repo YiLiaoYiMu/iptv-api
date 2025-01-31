@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-01-31 06:21:26,http://138.2.110.209:35455/gaoma/cctv1.m3u8
+2025-01-31 18:21:18,http://138.2.110.209:35455/gaoma/cctv1.m3u8
 
 📺央视频道,#genre#
 CCTV-1,http://138.2.110.209:35455/gaoma/cctv1.m3u8
@@ -22,8 +22,9 @@ CCTV-16,http://138.2.110.209:35455/gaoma/cctv16.m3u8
 CCTV-17,http://138.2.110.209:35455/gaoma/cctv17.m3u8
 CCTV-4K,http://home.dzlove.top:35455/rptv/G_CCTV-4K-HD.m3u8?license=gitv
 CCTV-8K,http://home.wwang.pw:35455/gaoma/cctv8k_36m.m3u8
-CETV1,http://120.55.49.231:3095/rtp/233.50.201.75:5140
-CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
+CETV1,http://139.129.231.228:50060/rtp/239.21.2.7:5002
+CETV2,http://139.129.231.228:50060/rtp/239.21.2.8:5002
+CETV4,http://139.129.231.228:50060/rtp/239.21.1.222:5002
 
 📡卫视频道,#genre#
 广东卫视,http://z.b.bkpcp.top/m.php?id=gdws
@@ -95,8 +96,8 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 浙江休闲台,http://ali-m-l.cztv.com/channels/lantian/channel006/720p.m3u8
 浙江青田,http://l.cztvcloud.com/channels/lantian/SXqingtian1/720p.m3u8
 诸暨新闻综合,http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
-龙游生活娱乐,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
-龙游新闻综合,https://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
+龙游生活娱乐,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed
+龙游新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8?zzhed
 龙泉新闻综合,http://l.cztvcloud.com/channels/lantian/SXlongquan1/720p.m3u8?zzhed
 鄞州二套,http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090936.m3u8?zzhed
 鄞州一套,http://pili-publish.yzxw.newaircloud.com/newaircloud-yzxw/yzxw_20190925090843.m3u8?zzhed
@@ -106,8 +107,8 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 象山电视台新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 象山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiangshan1/720p.m3u8
 衢江新闻综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8?zzhed
-萧山生活,https://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8
-萧山新闻综合,https://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8
+萧山生活,http://l.cztvcloud.com/channels/lantian/SXxiaoshan2/720p.m3u8?zzhed?
+萧山新闻综合,http://l.cztvcloud.com/channels/lantian/SXxiaoshan1/720p.m3u8?zzhed
 苍南新闻综合,http://l.cztvcloud.com/channels/lantian/SXcangnan1/720p.m3u8?zzhed
 缙云综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8?zzhed?
 缙云新闻综合,http://l.cztvcloud.com/channels/lantian/SXjinyun1/720p.m3u8
@@ -138,9 +139,9 @@ CETV4,http://120.55.49.231:3095/rtp/233.50.200.162:5140
 兰溪新闻综合,http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?zzhed
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
-余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
+余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?zzhed
 余姚新闻综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
-余姚姚江文化,https://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8
+余姚姚江文化,http://l.cztvcloud.com/channels/lantian/SXyuyao3/720p.m3u8?zzhed
 云和新闻综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8?zzhed
 义乌新闻综合,https://44911.hlsplay.aodianyun.com/tv_radio_44911/tv_channel_1796.m3u8?auth_key=4830573978-0-0-92824c2c03f95906a3c49a4aa28f1709&extra_key=Yc1XsmxOKy2UBoPM4Wy5vCPsEYqnj06taCR2SRB2Xrg2w28NPilH03KdIbbM5wgSql-VBohSnoO9AOKl94q2t2DWMftz-XB-2qUX-UjXcS80StcSZahBFjrKLivXaRjiY5r2NOMKWMKFbv-S0Bz2G6iEXgCK8yGjtrFHDcPfAQEE0pvXq0Bwy34b7We8zARN&ali_ffmpeg_version=mpengine
 中国蓝新闻,https://ali-m-l.cztv.com/channels/lantian/channel009/1080p.m3u8?
@@ -168,9 +169,10 @@ Viutv,https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 🎬电影频道,#genre#
 CHC家庭影院,http://110.53.52.63:8888/newlive/live/hls/51/live.m3u8
 CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
-黑莓电影,http://home.dzlove.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
+黑莓电影,http://itv.nctv.top:35455/itv/1000000004000019624.m3u8?cdn=ystenlive
 经典电影,http://120.238.94.10:9901/tsfile/live/1040_1.m3u8
-星空卫视,http://218.202.220.2:5000/nn_live.ts?id=STARTV
+IPTV经典电影,http://139.129.231.228:50060/rtp/239.21.1.124:5002
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 东森超视,rtmp://f13h.mine.nu/sat/tv331
 
 🎥咪咕直播,#genre#
@@ -178,11 +180,13 @@ CHC动作电影,http://110.53.52.63:8888/newlive/live/hls/53/live.m3u8
 咪咕直播2,http://home.dzlove.top:35455/itv/3000000001000005969.m3u8?cdn=FifastbLive
 
 🏛经典剧场,#genre#
-笑傲江湖,http://rihou.cc:555/huyad.php?id=23865142
+笑傲江湖,https://lunbo.freetv.top/yy/1354930909
 天龙八部,https://lunbo.freetv.top/yy/1351814644
 鹿鼎记,https://lunbo.freetv.top/yy/1354658049
 仙剑奇侠传,https://lunbo.freetv.top/yy/1382749903
-三国演义,http://rihou.cc:555/huyad.php?id=11602081
+西游记,http://1.94.31.214:35455/huya/26355861
+三国演义,https://lunbo.freetv.top/yy/1354930932
 新白娘子传奇,https://lunbo.freetv.top/yy/1354930969
 封神榜,https://lunbo.freetv.top/yy/1353426319
+上海滩,https://live.metshop.top/yy/1382745184
 射雕英雄传,https://lunbo.freetv.top/yy/1354210357
