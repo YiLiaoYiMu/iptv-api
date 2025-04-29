@@ -23,6 +23,7 @@ CETV4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/8888888
 
 💰央视付费频道,#genre#
 央视台球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226956/index.m3u8
+风云音乐,https://radio.0472.org/?id=641
 风云足球,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226984/index.m3u8
 世界地理,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226947/index.m3u8
 
@@ -598,6 +599,7 @@ JJ斗地主,http://live.iill.top/bilibili.php?id=22021983$订阅源
 
 🎵音乐频道,#genre#
 CCTV-15,http://bl.dchwtq.asia:10000/rtp/239.69.1.155:10566$组播源
+风云音乐,https://radio.0472.org/?id=641
 音乐之声,https://radio.0472.org/?id=641
 
 🏛经典剧场,#genre#
